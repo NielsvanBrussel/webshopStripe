@@ -1,0 +1,24 @@
+.dunno {
+    padding-top: 20px;
+    margin-left: 5%;
+}
+
+.roster{
+    
+   display: grid;
+    margin-left: 5%;
+    margin-right: 10%
+}
+
+.button1 {
+    width: 100%
+}
+
+.checkoutGrid {
+    display: inline-block;
+    
+  }
+
+div.checkoutGrid {
+    width: 30%;
+  }
